@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+# (1..100).to_a.each do |num|
+#   Post.create(title: "Post #{num}", description: "Some amazing content ##{num}.")
+# end
+
+puts "Finished Seeding Database"
