@@ -10,7 +10,7 @@ Rails, you will discover that you will have the flexibility to utilize:
 
 - Built-in form helper methods
 
-- Plain HTML form elements
+- Plain HTtML form elements
 
 This lesson is going to begin by integrating HTML form elements and then slowly
 start refactoring the form using Rails methods. It would be very easy to
